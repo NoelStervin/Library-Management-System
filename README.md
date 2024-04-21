@@ -1,4 +1,4 @@
-## Library Management System
+# Library Management System
 
 This repository contains a library management system built using MySQL for data storage. The system allows librarians to manage books, members, and borrowing activities. 
 
