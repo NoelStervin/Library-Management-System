@@ -24,4 +24,5 @@ The following are some queries for which we can derive results using this system
 9. Retrieve the book_title from the book table containing history.
 10. Retrieve the branch numbers along with the count of employees for branches having more than 5 employees.
 
-The visual representation of the code and answers for the above queries are available in the attached pdf. Do check it out.
+The visual representation of the code and answers for the above queries are available in the attached pdf. 
+Do check it out.
